@@ -5,9 +5,9 @@ The Balloon Shooter is an interactive arcade-style game built using Python and t
 # Balloon Shooter
 # Language - Python
 # Modules - pygame, sys, random, math 
-#
+# coordinator- Dr Kapil Gupta Sir
 # Controls - Mouse
-#
+# Cordi
 # By - Mohit Soni, Rohit Raj, gagan nagar
 
 #
